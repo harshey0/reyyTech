@@ -7,8 +7,8 @@ export default defineConfig({
   server: {
     port: 3000,
     proxy: {
-      "/api": "https://e-commerce-final-z6ao.onrender.com/",
-      "/upload": "https://e-commerce-final-z6ao.onrender.com/",
+      "/api": "https://reyytech.onrender.com/",
+      "/upload": "https://reyytech.onrender.com/",
     },
   },
 })
