@@ -52,4 +52,53 @@
 
 These features collectively aim to provide users with a seamless and enjoyable shopping experience while offering administrators the tools they need to manage the platform effectively.
 
-<h3>These features collectively aim to provide users with a seamless and enjoyable shopping experience while offering administrators the tools they need to manage the platform effectively, leveraging technologies such as MongoDB, Express.js, React.js, Node.js, and Passport.js for authentication.</h3>
+**Tech Stack Used in Dekho Movie Browsing App**
+
+1. **React.js**: Dekho Movie Browsing App's frontend is developed using React.js, a powerful JavaScript library for building user interfaces. React's component-based architecture allows for the creation of reusable UI components, facilitating modular and efficient development.
+
+2. **JavaScript (ES6+)**: JavaScript is utilized extensively for client-side scripting to enhance user interactivity, handle dynamic content, and perform asynchronous operations such as API requests.
+
+3. **HTML/CSS**: HTML is employed for structuring the content of the application, while CSS is used for styling and layout purposes. Together, they provide the foundation for creating visually appealing and well-organized user interfaces.
+
+4. **API Integration**: Dekho utilizes APIs (such as OpenWeatherMap, TMDB - The Movie Database, or others) to fetch movie data, ratings, reviews, and other relevant information. These APIs allow for the retrieval of up-to-date and comprehensive data about movies from external sources.
+
+5. **Responsive Design**: CSS media queries and flexible layouts are implemented to ensure that the application is responsive and accessible across various devices and screen sizes. This ensures a consistent user experience regardless of the device being used.
+
+6. **Git/GitHub**: Git version control system is used for tracking changes to the project codebase and collaborating with other developers. GitHub serves as the hosting platform for the application's source code repository, facilitating code sharing, collaboration, and project management.
+
+7. **Deployment**: Dekho Movie Browsing App can be deployed to a web server using platforms such as Netlify, Vercel, GitHub Pages, or traditional web hosting services. Deployment involves building the project and uploading the compiled files to the server to make the application accessible to users on the internet.
+
+This tech stack empowers Dekho Movie Browsing App to deliver a seamless and enjoyable user experience, providing users with comprehensive movie information and intuitive browsing capabilities.
+
+
+  **Installation**
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/weather-explorer.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd weather-explorer
+   ```
+
+3. Install dependencies:
+   ```
+   npm install
+   ```
+
+4. Start the development server:
+   ```
+   npm start
+   ```
+
+5. Open http://localhost:3000 in your web browser to access the Weather Explorer app.
+
+**Contributing**
+
+Contributions to Weather Explorer are welcome. If you have suggestions for improvements or would like to report issues, feel free to submit a pull request or open an issue on GitHub.
+
+**License**
+
+This project is licensed under the MIT License. See the LICENSE file for details.
